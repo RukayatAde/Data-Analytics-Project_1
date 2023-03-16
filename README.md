@@ -94,7 +94,7 @@ Hence, the following questions have been used to make analysis, produce insights
 
 ## Methodology 
 
- - By making your analysis and code available on a Github repository, it makes it easier for others to replicate your analysis and build on your findings.
+ - By making your analysis and code available on a Github repository, it makes it easier for others to replicate the analysis and build on the findings.
 
  - Visualizing the findings through graphs is also a great way to communicate the results and make them more accessible to a wider audience. By comparing the findings globally, it can  be gained  a better understanding of how mental health issues and support differ across different regions and countries.
 
